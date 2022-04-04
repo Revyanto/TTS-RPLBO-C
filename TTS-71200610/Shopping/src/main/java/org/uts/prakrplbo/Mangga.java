@@ -1,0 +1,5 @@
+package org.uts.prakrplbo;
+
+public class Mangga extends Buah{
+    private int harga;
+}
